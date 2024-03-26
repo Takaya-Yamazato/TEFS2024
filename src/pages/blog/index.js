@@ -12,7 +12,7 @@ export default class BlogIndexPage extends React.Component {
           style={{
             // backgroundImage: `url('../../../../static/img/jumbotron.webp')`,
             // backgroundImage: `url('/img/jumbotron.webp')`,
-            backgroundImage: `url('../img/ashirani-murata-rQgqf6ynkP8-unsplash.webp')`,
+            backgroundImage: `url('../img/home-jumbotron.webp')`,
           }}
         >
           <h1

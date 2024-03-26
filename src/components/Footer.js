@@ -9,7 +9,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           {/* <img src={logo} alt="Kaldi" style={{ width: "14em", height: "10em" }} /> */}
-          <h1 className="is-size-3 has-text-white-ter">IEEE ComSoc Tokyo Joint Chapter</h1>
+          <h1 className="is-size-3 has-text-white-ter">テクノフロンティアセミナー（TEFS2004）</h1>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
@@ -44,9 +44,9 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                    <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/com-19.html" target="_blank" rel="noopener noreferrer">
-                Past events (to the previous site)
-              </a>
+                      <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/com-19.html" target="_blank" rel="noopener noreferrer">
+                        Past events (to the previous site)
+                      </a>
                     </li>
                     <li>
                       <a className="navbar-item" href="https://ieee-jp.org/" target="_blank" rel="noopener noreferrer" title="IEEE Japan Council">
