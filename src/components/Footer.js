@@ -19,17 +19,17 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Home
+                        ホーム
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about/">
-                        About
+                        TEFSについて
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/officers/">
-                        Officers
+                        実行委員会
                       </Link>
                     </li>
                   </ul>

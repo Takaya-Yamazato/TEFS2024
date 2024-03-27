@@ -1,7 +1,7 @@
 {
-  "name": "IEEE-ComSoc-Tokyo-Joint-Chapter",
-  "description": "IEEE ComSoc Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka Joint Sections Chapter",
-  "version": "1.0.1",
+  "name": "TEFS2024",
+  "description": "テクノフロンティアセミナー（TEFS2024）",
+  "version": "0.8.1",
   "author": "Takaya Yamazato",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
