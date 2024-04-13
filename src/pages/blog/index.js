@@ -10,9 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image margin-top-0"
           style={{
-            // backgroundImage: `url('../../../../static/img/jumbotron.webp')`,
-            // backgroundImage: `url('/img/jumbotron.webp')`,
-            backgroundImage: `url('../img/home-jumbotron.webp')`,
+            backgroundImage: `url('../img/toyoko2.webp')`,
           }}
         >
           <h1

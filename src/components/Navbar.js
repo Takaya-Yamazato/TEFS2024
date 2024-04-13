@@ -50,23 +50,19 @@ const Navbar = class extends React.Component {
           <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
-              </Link>
-              <Link className="navbar-item" to="/officers/">
-                Officers
+                TEFSについて
               </Link>
               <Link className="navbar-item" to="/blog/">
-                Events
+                お知らせ
               </Link>
+              <Link className="navbar-item" to="/theme/">
+                実験テーマとその概要
+              </Link>
+              {/* <Link className="navbar-item" to="/registration/">
+                お申し込み
+              </Link> */}
               <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/com-19.html" target="_blank" rel="noopener noreferrer">
-                Past events (to the previous site)
-              </a>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <a className="navbar-item" href="https://github.com/Takaya-Yamazato/owc2024" target="_blank" rel="noopener noreferrer">
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
+                お申し込み
               </a>
             </div>
           </div>
