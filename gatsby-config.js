@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: "IEEE-ComSoc-Tokyo-Joint-Chapter",
-    description: "IEEE ComSoc Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka Joint Sections Chapter",
-    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/`,
+    title: "TEFS2004",
+    description: "テクノフロンティアセミナー（TEFS）は名古屋大学工学部電気電子情報工学科が行う高校生向けのセミナーです",
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/TEFS2024/`,
     social: {
       facebook: `https://www.facebook.com/JapanOCWConsortium/`,
     },
   },
-  pathPrefix: `/IEEE-ComSoc-Tokyo-Joint-Chapter`,
+  pathPrefix: `/TEFS2024`,
   plugins: [
     "gatsby-plugin-image",
     {
