@@ -1,4 +1,5 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import "~bulma"
 
 // Config vars
 // Kaldi logo brand color: #FD461E
@@ -122,23 +123,6 @@ $menu-label-color: $white-ter
   flex-basis: 35%
   margin: 0 1.5em 0 0
 
-
-@import "~bulma"
-
-
-// responsiveness
-+tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%
-
-+mobile
-  .blog-list-item header
-    display: block
-  .blog-list-item .featured-thumbnail
-    text-align: center
-    max-width: 70%
-    margin: 0 0 1em
-
 .pagetopButton
   position: fixed
   width: 100%
@@ -149,3 +133,21 @@ $menu-label-color: $white-ter
   z-index: 1
   cursor: pointer
   color: $kaldi-red
+
+
+
+
+// responsiveness
+// +tablet-only
+//  .blog-list-item .featured-thumbnail
+//    flex-basis: 50%
+
+//+mobile
+//  .blog-list-item header
+//    display: block
+//  .blog-list-item .featured-thumbnail
+//    text-align: center
+//    max-width: 70%
+//    margin: 0 0 1em
+
+
