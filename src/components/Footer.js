@@ -37,6 +37,11 @@ const Footer = class extends React.Component {
                       実験テーマとその概要
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item has-text-white-ter" to="/team/">
+                      実行委委員会
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>

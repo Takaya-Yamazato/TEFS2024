@@ -61,6 +61,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/registration/">
                 お申し込み
               </Link>
+              <Link className="navbar-item" to="/team/">
+                実行委員会
+              </Link>
               {/* <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/com-19.html" target="_blank" rel="noopener noreferrer">
                 お申し込み
               </a> */}
