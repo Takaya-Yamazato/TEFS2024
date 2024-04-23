@@ -54,6 +54,11 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
+                      <a className="navbar-item has-text-white-ter" href="https://docs.google.com/forms/d/e/1FAIpQLScEQw3lxo1LltghuuCKHDOAHp9dpMmukafGxiUbOMwJGqtV_g/viewform?usp=sf_link" title="お問い合わせ">
+                        お問い合わせ
+                      </a>
+                    </li>
+                    <li>
                       <a className="navbar-item has-text-white-ter" href="https://ocw.nagoya-u.jp" target="_blank" rel="noopener noreferrer" title="NU OCW">
                         名大の授業
                       </a>
