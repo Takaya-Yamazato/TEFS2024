@@ -40,6 +40,7 @@ TEFSは，例年，名古屋大学オープンキャンパスの次の日に行�
 工学部とりわけ電気系へ進学希望の高校生にとってはチャンスですね．
 
 
+
 ## 過去のTEFS
 
 - [令和０５年度　テクノフロンティアセミナー](http://www.echo.nuee.nagoya-u.ac.jp/tefs/tefs34/index.html)
