@@ -51,3 +51,15 @@ IB電子情報館北棟9F　岡田研究室（担当：石川，白石）
 TEL:052-789-2743, FAX:052-789-2743
 
 Email：tefs2024 AT yamazato DOT nuee DOT nagoya-u.ac.jp
+
+# 主催
+- [名古屋大学 工学部・大学院工学研究科](https://www.engg.nagoya-u.ac.jp)
+- [公益財団法人　KDDI財団](http://www.kddi-foundation.or.jp/)
+
+# 後援（予定）
+- [KDDI（株）中部総支社](https://www.kddi.com/)
+- [愛知県教育委員会](https://www.pref.aichi.jp/site/aichinokyoiku/)
+- [名古屋市教育委員会](https://www.city.nagoya.jp/shisei/category/62-10-0-0-0-0-0-0-0-0.html)
+- [電子情報通信学会東海支部](https://www.ieice.org/tokai/)
+- [IEEE 名古屋支部 Education Activity](https://ieee-jp.org/section/nagoya/)
+- [IEEE ComSoc Tokyo Joint Chapter](https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/)
