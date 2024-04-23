@@ -36,3 +36,18 @@ subheading: 名大の「電気・電子・情報工学」実験を体験して�
 ## お申し込み
 - 現在準備中です
 
+# お問い合わせ
+
+[こちらのフォームからお問い合わせください．](https://docs.google.com/forms/d/e/1FAIpQLScEQw3lxo1LltghuuCKHDOAHp9dpMmukafGxiUbOMwJGqtV_g/viewform?usp=sf_link)
+
+## 連絡先
+
+〒464-8603　名古屋市千種区不老町
+
+名古屋大学工学部電気電子情報工学科　TEFS2024実行委員会
+
+IB電子情報館北棟9F　岡田研究室（担当：石川，白石）
+
+TEL:052-789-2743, FAX:052-789-2743
+
+Email：tefs2024 AT yamazato DOT nuee DOT nagoya-u.ac.jp
