@@ -1,16 +1,15 @@
-// @import "~bulma/sass/utilities/initial-variables"
-@import "~bulma"
-
+@charset "utf-8"
 // Config vars
 // Kaldi logo brand color: #FD461E
 $kaldi-red: #134d72
-$kaldi-red-invert: #fff
+$kaldi-red-invert: #90dc82
 
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
-$black: #2b2523
+$black: #134d72
 $white-ter: #f5f5f5
+// $background-dark: #f5f5f5
 
 // .navbar .navbar-menu
 //   box-shadow:none !important
@@ -85,6 +84,7 @@ $white-ter: #f5f5f5
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
+  
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -93,7 +93,7 @@ $menu-item-hover-background-color: $black
 $menu-item-active-color: $kaldi-red-invert
 $menu-item-active-background-color:	$kaldi-red-invert
 $menu-list-border-left: 1px solid $kaldi-red-invert
-$menu-label-color: $white-ter
+// $menu-label-color: $white-ter
 
 
 .menu-label
@@ -151,4 +151,5 @@ $menu-label-color: $white-ter
 //    max-width: 70%
 //    margin: 0 0 1em
 
-
+// If need, change your variables before importing Bulma
+@import "~bulma"
