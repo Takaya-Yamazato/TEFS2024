@@ -18,27 +18,27 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item has-text-white-ter">
+                      <Link to="/" className="navbar-item has-text-white-ter has-text-weight-bold">
                         ホーム
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item has-text-white-ter" to="/about/">
+                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/about/">
                         TEFSについて
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item has-text-white-ter" to="/blog/">
+                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/blog/">
                         お知らせ
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item has-text-white-ter" to="/theme/">
+                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/theme/">
                       実験テーマとその概要
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item has-text-white-ter" to="/team/">
+                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/team/">
                       実行委委員会
                       </Link>
                     </li>
@@ -49,12 +49,12 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item has-text-white-ter" to="/registration/">
+                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/registration/">
                         お申し込み
                       </Link>
                     </li>
                     <li>
-                      <a className="navbar-item has-text-white-ter" href="https://docs.google.com/forms/d/e/1FAIpQLScEQw3lxo1LltghuuCKHDOAHp9dpMmukafGxiUbOMwJGqtV_g/viewform?usp=sf_link" title="お問い合わせ">
+                      <a className="navbar-item has-text-white-ter has-text-weight-bold" href="https://docs.google.com/forms/d/e/1FAIpQLScEQw3lxo1LltghuuCKHDOAHp9dpMmukafGxiUbOMwJGqtV_g/viewform?usp=sf_link" title="お問い合わせ">
                         お問い合わせ
                       </a>
                     </li>
