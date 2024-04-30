@@ -58,7 +58,7 @@ Email：tefs2024 AT yamazato DOT nuee DOT nagoya-u.ac.jp
 
 # 主催
 - [名古屋大学 工学部・大学院工学研究科](https://www.engg.nagoya-u.ac.jp)
-- [公益財団法人　KDDI財団](http://www.kddi-foundation.or.jp/)
+- [公益財団法人KDDI財団](http://www.kddi-foundation.or.jp/)
 
 # 後援（予定）
 - [KDDI（株）中部総支社](https://www.kddi.com/)
