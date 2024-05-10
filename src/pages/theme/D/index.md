@@ -1,7 +1,7 @@
 ---
 templateKey: "blog-post"
 path: /theme/D/
-title: 大気圧放電プラズマでオゾンを発生させよう！
+title: テーマD：大気圧放電プラズマでオゾンを発生させよう！
 image: /img/jumbotron.webp
 ---
 ---
