@@ -9,7 +9,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black">
         <div className="content has-text-centered">
           {/* <img src={logo} alt="Kaldi" style={{ width: "14em", height: "10em" }} /> */}
-          <h1 className="is-size-3 has-text-white-ter">テクノフロンティアセミナー（TEFS2004）</h1>
+          <h1 className="is-size-3 has-text-white-ter">テクノフロンティアセミナー（TEFS2024）</h1>
         </div>
         <div className="content">
           <div className="container">

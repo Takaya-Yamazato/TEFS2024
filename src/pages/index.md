@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: テクノフロンティアセミナー（TEFS2004）
+title: テクノフロンティアセミナー（TEFS2024）
 image: /img/jumbotron.webp
-heading: TEFS2004
+heading: TEFS2024
 subheading: 名大の「電気・電子・情報工学」実験を体験してみよう！
 ---
 
-# TEFS 2004
+# TEFS 2024
 
 テクノフロンティアセミナー（TEFS）は[名古屋大学工学部電気電子情報工学科](https://www.nuee.nagoya-u.ac.jp/)が行う[高校生向けのセミナー](https://www.echo.nuee.nagoya-u.ac.jp/tefs/index.html)です.
 
