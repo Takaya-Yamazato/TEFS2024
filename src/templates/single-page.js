@@ -4,7 +4,7 @@ import { graphql, withPrefix } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
-const AboutPageTemplate = ({ title, image, content, contentComponent }) => {
+const SinglePageTemplate = ({ title, image, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -43,7 +43,7 @@ const AboutPageTemplate = ({ title, image, content, contentComponent }) => {
   );
 };
 
-AboutPageTemplate.propTypes = {
+SinglePageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   content: PropTypes.string,
@@ -60,14 +60,14 @@ const AboutPage = ({ data }) => {
   );
 };
 
-AboutPage.propTypes = {
+SinglePage.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default AboutPage;
+export default SinglePage;
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const singlePageQuery = graphql`
+  query SinglePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
