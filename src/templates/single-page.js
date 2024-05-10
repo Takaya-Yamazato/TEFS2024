@@ -4,58 +4,42 @@ import { graphql, withPrefix } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
-const SinglePageTemplate = ({ title, image, content, contentComponent }) => {
+const SinglePageTemplate = ({ theme, title, image, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <div className="content">
-      <div
-        className="full-width-image-container margin-top-0"
-        style={{
-          backgroundImage: `url('${withPrefix("/")}img/toyoko-photo2.webp')`,
-        }}
-      >
-        <h2
-          className="has-text-weight-bold is-size-1"
-          style={{
-            boxShadow: "0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72",
-            backgroundColor: "#134d72",
-            color: "white",
-            padding: "1rem",
-          }}
-        >
-          {title}
-        </h2>
-      </div>
-      <section className="section section--gradient">
-        <div className="container">
+      <section className="section">
+        <div className="container content">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <div className="section">
-                <h2 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h2>
-                <PageContent className="content" content={content} />
-              </div>
+            <h1 className="title is-size-3 has-text-weight-bold">
+                {theme}
+              </h1>
+              <h2 className="title is-size-2 has-text-weight-bold is-bold-light">
+                {title}
+              </h2>
+              <PageContent className="content" content={content} />
             </div>
           </div>
         </div>
       </section>
-    </div>
   );
 };
 
 SinglePageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired,
+    theme: PropTypes.string.isRequired,
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 };
 
-const AboutPage = ({ data }) => {
+const SinglePage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <AboutPageTemplate contentComponent={HTMLContent} title={post.frontmatter.title} image={post.frontmatter.image} content={post.html} />
+      <SinglePageTemplate contentComponent={HTMLContent} theme={post.frontmatter.theme} title={post.frontmatter.title} image={post.frontmatter.image} content={post.html} />
     </Layout>
   );
 };
@@ -72,6 +56,7 @@ export const singlePageQuery = graphql`
       html
       frontmatter {
         title
+        theme
         image {
           childImageSharp {
             gatsbyImageData(width: 240, quality: 100, layout: CONSTRAINED)

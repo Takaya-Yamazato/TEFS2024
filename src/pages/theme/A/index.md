@@ -1,7 +1,8 @@
 ---
-templateKey: "blog-post"
+templateKey: "single-page"
 path: /theme/A/
-title: テーマA：電子ブロックで体験する物理と研究最前線
+theme: テーマA
+title: 電子ブロックで体験する物理と研究最前線
 image: /img/jumbotron.webp
 ---
 # ～電子回路を自分で作って動かそう～

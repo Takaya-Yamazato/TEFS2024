@@ -1,7 +1,8 @@
 ---
-templateKey: "blog-post"
+templateKey: "single-page"
 path: /theme/B/
-title: テーマB：太陽電池でエコ発電
+theme: テーマB
+title: 太陽電池でエコ発電
 image: /img/jumbotron.webp
 ---
 # ～再生可能エネルギーの有効活用～
