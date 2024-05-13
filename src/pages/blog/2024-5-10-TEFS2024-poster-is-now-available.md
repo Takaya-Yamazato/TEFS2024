@@ -7,6 +7,7 @@ featuredimage: /img/logo-image.png
 description: テクノフロンティアセミナー（TEFS2024）のポスターができました
 tags:
   - TEFS2024
+  - ポスター
 ---
 
 今年のTEFS2024のポスターはホームページと同様のイメージで作成しました．

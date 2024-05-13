@@ -7,6 +7,7 @@ featuredimage: /img/logo-image.png
 description: テクノフロンティアセミナー（TEFS2024）のホームページを公開しました．
 tags:
   - TEFS2024
+  - ホームページ
 ---
 
 今後，TEFS2024についての情報はこちらでお知らせいたします．乞うご期待！
