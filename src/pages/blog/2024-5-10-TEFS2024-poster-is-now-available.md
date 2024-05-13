@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: TEFS2024のポスター
-date: 2024-5-10T19:42:10.000Z
+date: 2024-05-10T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.png
 description: テクノフロンティアセミナー（TEFS2024）のポスターができました

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 参加受付スタート
-date: 2024-5-13T19:42:10.000Z
+date: 2024-05-13T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.png
 description: TEFS2024への参加申し込みを開始しました
