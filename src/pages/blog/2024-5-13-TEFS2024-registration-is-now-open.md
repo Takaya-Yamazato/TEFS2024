@@ -4,7 +4,7 @@ title: 参加受付スタート
 date: 2024-05-13T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.png
-description: TEFS2024への参加申し込みを開始しました
+description: TEFS2024への参加申し込みの受付を開始しました
 tags:
   - TEFS2024
   - 参加申し込み
