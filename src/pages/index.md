@@ -60,7 +60,7 @@ Email：tefs2024 AT yamazato DOT nuee.nagoya-u.ac.jp
 - [名古屋大学 工学部・大学院工学研究科](https://www.engg.nagoya-u.ac.jp)
 - [公益財団法人KDDI財団](http://www.kddi-foundation.or.jp/)
 
-# 後援（予定）
+# 後援
 - [KDDI（株）中部総支社](https://www.kddi.com/)
 - [愛知県教育委員会](https://www.pref.aichi.jp/site/aichinokyoiku/)
 - [名古屋市教育委員会](https://www.city.nagoya.jp/shisei/category/62-10-0-0-0-0-0-0-0-0.html)
