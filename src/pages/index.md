@@ -65,5 +65,6 @@ Email：tefs2024 AT yamazato DOT nuee.nagoya-u.ac.jp
 - [愛知県教育委員会](https://www.pref.aichi.jp/site/aichinokyoiku/)
 - [名古屋市教育委員会](https://www.city.nagoya.jp/shisei/category/62-10-0-0-0-0-0-0-0-0.html)
 - [電子情報通信学会東海支部](https://www.ieice.org/tokai/)
+- [電気学会東海支部](https://www.iee.jp/tokai/)
 - [IEEE 名古屋支部 Education Activity](https://ieee-jp.org/section/nagoya/)
 - [IEEE ComSoc Tokyo Joint Chapter](https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/)
