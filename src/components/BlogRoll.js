@@ -36,6 +36,8 @@ class BlogRoll extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
+                    <br /><br />
+                    {post.frontmatter.date}
                   </p>
                 </header>
                 <p>
