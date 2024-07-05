@@ -4,7 +4,7 @@ title: 参加申込の締切を木曜日まで延長します
 date: 2024-07-01T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.png
-description: 新しい締切は 7月8日（木）必着です
+description: 新しい締切は 7月4日（木）必着です
 tags:
   - TEFS2024
 ---
@@ -21,6 +21,6 @@ Webでのお申し込みはありませんので，ご注意ください．
 
 くり返しになりますが，新しいお申し込み期限は
 
-- <span style="color: red; ">2024年7月8日（木）（必着）</span>
+- <span style="color: red; ">2024年7月4日（木）（必着）</span>
 
 です．たくさんのご応募をお待ちしています．
