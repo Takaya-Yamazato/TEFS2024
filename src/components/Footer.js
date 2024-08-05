@@ -6,7 +6,7 @@ import { FaWifi } from "@react-icons/all-files/fa/FaWifi";
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black">
+      <footer className="footer">
         <div className="content has-text-centered">
           {/* <img src={logo} alt="Kaldi" style={{ width: "14em", height: "10em" }} /> */}
           <h1 className="is-size-3 has-text-white-ter">テクノフロンティアセミナー（TEFS2024）</h1>
@@ -69,6 +69,12 @@ const Footer = class extends React.Component {
                       </a>
                     </li>
                     <li>
+                      <a className="navbar-item has-text-white-ter" href="https://nuoc.adm.nagoya-u.ac.jp/2024/index.html" target="_blank" rel="noopener noreferrer" title="NU Start Guide">
+                      名古屋大学オープンキャンパス
+                      </a>
+                    </li>
+                    
+                    <li>
                       <a className="navbar-item has-text-white-ter" href="https://www.nuee.nagoya-u.ac.jp/" target="_blank" rel="noopener noreferrer" title="名古屋大学工学部電気電子情報工学科">
                       名古屋大学工学部電気電子情報工学科
                       </a>
@@ -77,7 +83,7 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a className="navbar-item" href="https://yamazato.nuee.nagoya-u.ac.jp/" target="_blank" rel="noopener noreferrer" title="Nagoya University Yamazato Laboratory">
+                <a className="navbar-item has-text-white-ter" href="https://yamazato.nuee.nagoya-u.ac.jp/" target="_blank" rel="noopener noreferrer" title="Nagoya University Yamazato Laboratory">
                   <FaWifi />
                   &nbsp;&nbsp;Yamazato Laboratory
                 </a>
