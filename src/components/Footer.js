@@ -38,8 +38,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/team/">
-                      実行委委員会
+                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/to-participants/">
+                      参加者の皆様へ
                       </Link>
                     </li>
                   </ul>
@@ -48,6 +48,11 @@ const Footer = class extends React.Component {
               <div className="column is-4">
                 <section>
                   <ul className="menu-list">
+                  <li>
+                      <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/team/">
+                      実行委委員会
+                      </Link>
+                    </li>
                     <li>
                       <Link className="navbar-item has-text-white-ter has-text-weight-bold" to="/registration/">
                         お申し込み
