@@ -24,10 +24,11 @@ jobs:
       #          access-token: ${{ secrets.ACCESS_TOKEN }}
       #          gatsby-args: --prefix-paths
       # Node のセットアップ
-      - name: Use Node.js latest
+      - name: Use Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: latest
+          # node-version: latest
+          node-version-file: 'package.json'
       # Node の実行（npm install, npm run build）
       - name: Build project
         run: |
