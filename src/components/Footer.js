@@ -88,7 +88,7 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a className="navbar-item has-text-white-ter" href="https://yamazato.nuee.nagoya-u.ac.jp/" target="_blank" rel="noopener noreferrer" title="Nagoya University Yamazato Laboratory">
+                <a className="navbar-item has-text-link-dark" href="https://yamazato.nuee.nagoya-u.ac.jp/" target="_blank" rel="noopener noreferrer" title="Nagoya University Yamazato Laboratory">
                   <FaWifi />
                   &nbsp;&nbsp;Yamazato Laboratory
                 </a>
