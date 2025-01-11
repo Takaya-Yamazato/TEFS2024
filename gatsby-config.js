@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "TEFS2024",
     description: "テクノフロンティアセミナー（TEFS）は名古屋大学工学部電気電子情報工学科が行う高校生向けのセミナーです",
-    siteUrl: `https://tefs2024.yamazato.nuee.nagoya-u.ac.jp/`,
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/TEFS2024`,
     social: {
       twitter: `https://twitter.com/nuocw/`,
     },
@@ -68,7 +68,7 @@ module.exports = {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
-        purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
+        // purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
   ],
