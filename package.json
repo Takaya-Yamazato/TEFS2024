@@ -1,4 +1,3 @@
-
 {
   "name": "TEFS2024",
   "description": "テクノフロンティアセミナー（TEFS2024）",
@@ -13,6 +12,7 @@
     "gatsby-plugin-react-helmet": "^6.14.0",
     "gatsby-plugin-sass": "^6.14.0",
     "gatsby-plugin-sharp": "^5.14.0",
+    "gatsby-plugin-sitemap": "^6.14.0",
     "gatsby-remark-copy-linked-files": "^6.14.0",
     "gatsby-remark-images": "^7.14.0",
     "gatsby-remark-relative-images": "^2.0.5",
@@ -40,7 +40,7 @@
     "develop": "gatsby clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "yarn package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && yarn install && yarn run build",
-    "npm package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"    
+    "npm package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"
   },
   "devDependencies": {
     "prettier": "^3.4.2"
