@@ -3,16 +3,19 @@ module.exports = {
     title: "TEFS2024",
     description: "テクノフロンティアセミナー（TEFS）は名古屋大学工学部電気電子情報工学科が行う高校生向けのセミナーです",
     siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/TEFS2024/`,
+    // siteUrl: `https://www.echo.nuee.nagoya-u.ac.jp/tefs/tefs35/`,
     social: {
       twitter: `https://twitter.com/nuocw/`,
     },
   },
   pathPrefix: `/TEFS2024`,
+  // pathPrefix: `/tefs/tefs35`,
   plugins: [
     `gatsby-plugin-sitemap`,{
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
         siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/TEFS2024/`,
+        // siteUrl: `https://www.echo.nuee.nagoya-u.ac.jp/tefs/tefs35/`,
       },
     },
     "gatsby-plugin-image",
