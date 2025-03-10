@@ -7,7 +7,7 @@ module.exports = {
       twitter: `https://twitter.com/nuocw/`,
     },
   },
-  // pathPrefix: `/TEFS2024`,
+  pathPrefix: `/TEFS2024`,
   plugins: [
     `gatsby-plugin-sitemap`,{
       resolve: `gatsby-plugin-canonical-urls`,
